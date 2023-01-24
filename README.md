@@ -3,7 +3,7 @@
 ## Anasayfa 
 
 
-<img src="./Ekran1.png" >
+<img src="./ekran1.png" >
 
 
 ## Menu 
