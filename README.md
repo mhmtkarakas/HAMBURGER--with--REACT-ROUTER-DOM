@@ -2,16 +2,16 @@
 
 ## Anasayfa 
 
-<img src="./ekran/ekran1.png">
+<img src="../ekran/ekran1.png">
 
 ## Menu 
 
-<img src="./ekran/ekran2.png">
+<img src="../ekran/ekran2.png">
 
 ## Hakkımızda
 
-<img src="./ekran/ekran3.png">
+<img src="../ekran/ekran3.png">
 
 ## İletişim
 
-<img src="./ekran/ekran3.png">
+<img src="../ekran/ekran3.png">
